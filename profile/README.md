@@ -1,5 +1,5 @@
 # Intro
-Olá, esta é uma organização com projetos desenvolvidos com a supervisão de Rodrigo Lira ([@rodrigoclira](https://github.com/rodrigoclira))
+Olá, esta é uma organização com projetos desenvolvidos no IFPE Campus Paulita
 
 
 <!--
