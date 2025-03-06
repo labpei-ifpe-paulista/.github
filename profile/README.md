@@ -1,5 +1,5 @@
 # Intro
-Olá, esta é uma organização com projetos desenvolvidos no IFPE Campus Paulita
+Olá, esta é uma organização com projetos desenvolvidos no Laboratório de Pesquisa, Extensão e Inovação do IFPE _Campus_ Paulita
 
 
 <!--
