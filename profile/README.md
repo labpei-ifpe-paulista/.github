@@ -1,6 +1,15 @@
 # Intro
-Olá, esta é uma organização com projetos desenvolvidos no Laboratório de Pesquisa, Extensão e Inovação do IFPE _Campus_ Paulita
 
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%">
+      Olá, esta é uma organização com projetos desenvolvidos no Laboratório de Pesquisa, Extensão e Inovação do IFPE <i>Campus</i> Paulista
+    </td>
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/6b2eb385-5e8e-482d-a2bd-5e6023df12b7" width="100%">
+    </td>
+  </tr>
+</table>
 
 <!--
 
