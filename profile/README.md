@@ -3,7 +3,7 @@
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%">
-      Olá, esta é uma organização com projetos desenvolvidos no Laboratório de Pesquisa, Extensão e Inovação do <a href="https://portal.ifpe.edu.br/paulista" target="_blank"/>IFPE Campus Paulista</a>.
+      Esta é uma organização com projetos desenvolvidos no Laboratório de Pesquisa, Extensão e Inovação do <a href="https://portal.ifpe.edu.br/paulista" target="_blank"/>IFPE Campus Paulista</a>.
     </td>
     <td width="50%">
       <img src="https://github.com/user-attachments/assets/6b2eb385-5e8e-482d-a2bd-5e6023df12b7" width="100%">
